@@ -2,6 +2,9 @@
 
 A modern, responsive ChatGPT-like web application frontend built with Next.js, Tailwind CSS, and Lucide React.
 
+![AI Chat Interface - Light Mode](public/screenshot-light.png)
+![AI Chat Interface - Dark Mode](public/screenshot-dark.png)
+
 ## Features
 - **Mobile-First Design**: Fully responsive layout with a toggleable sidebar on mobile.
 - **Theme Switching**: Seamless transition between Light and Dark modes.
